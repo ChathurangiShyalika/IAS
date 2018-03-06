@@ -1,0 +1,30 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\WcfService2.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\WcfService2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\MySql.Data.Entity.EF5.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\MySql.Data.Entity.EF6.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\MySql.Fabric.Plugin.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\MySql.Data.Entity.EF5.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\bin\MySql.Data.Entity.EF6.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\WcfService2\WcfService2\obj\Debug\WcfService2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\bin\WcfService2.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\bin\WcfService2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Data.Entity.EF5.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Data.Entity.EF6.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Fabric.Plugin.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Data.Entity.EF5.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Data.Entity.EF6.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\obj\Debug\WcfService2.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q6\WcfService2\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\bin\WcfService2.dll
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\bin\WcfService2.pdb
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Data.Entity.EF5.dll
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Data.Entity.EF6.dll
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Fabric.Plugin.dll
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Data.Entity.EF5.xml
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\bin\MySql.Data.Entity.EF6.xml
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\obj\Debug\WcfService2.csprojResolveAssemblyReference.cache
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\obj\Debug\WcfService2.dll
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q6\WcfService2\WcfService2\obj\Debug\WcfService2.pdb

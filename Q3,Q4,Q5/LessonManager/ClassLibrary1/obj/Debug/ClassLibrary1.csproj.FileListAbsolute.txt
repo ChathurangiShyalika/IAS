@@ -1,0 +1,21 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\New folder\LessonManager\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\New folder\LessonManager\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\New folder\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\New folder\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\New folder\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\New folder\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.CustomControl1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\New folder\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q4,Q5try\LessonManager\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q4,Q5try\LessonManager\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q4,Q5try\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q4,Q5try\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.CustomControl1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q4,Q5try\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q4,Q5try\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\sowpnewassignment\Q4,Q5try\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q3,Q4,Q5\LessonManager\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q3,Q4,Q5\LessonManager\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q3,Q4,Q5\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.csprojResolveAssemblyReference.cache
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q3,Q4,Q5\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.CustomControl1.resources
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q3,Q4,Q5\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.GenerateResource.Cache
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q3,Q4,Q5\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q3,Q4,Q5\LessonManager\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

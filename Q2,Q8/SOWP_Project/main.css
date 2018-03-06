@@ -1,0 +1,49 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-color:lightblue;
+}
+
+h1 {
+ 
+  
+  color:darkblue;
+  text-align:center;
+  font-family:'Oswald', sans-serif;
+ font-size:3.5em;
+}
+
+p{
+	color:violet;
+	font: 30px Verdana, Geneva, sans-serif;
+	text-align:center;
+	
+}
+
+#section1{
+	align:center;
+}
+
+
+body{
+    padding: 50px;
+}
+.modal-dialog {
+    width: 300px;
+}
+.modal-footer {
+    height: 70px;
+    margin: 0;
+}
+.modal-footer .btn {
+    font-weight: bold;
+}
+.modal-footer .progress {
+    display: none;
+    height: 32px;
+    margin: 0;
+}
+.input-group-addon {
+    color: #fff;
+    background: #3276B1;
+}

@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\bin\Debug\SchedulingComponent.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\bin\Debug\SchedulingComponent.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\bin\Debug\SchedulingComponent.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\obj\Debug\SchedulingComponent.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\obj\Debug\SchedulingComponent.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\obj\Debug\SchedulingComponent.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\obj\Debug\SchedulingComponent.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\obj\Debug\SchedulingComponent.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\SchedulingComponent\SchedulingComponent\obj\Debug\SchedulingComponent.pdb
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q8\SchedulingComponent\SchedulingComponent\bin\Debug\SchedulingComponent.exe.config
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q8\SchedulingComponent\SchedulingComponent\obj\Debug\SchedulingComponent.exe
+E:\3rd year\Sem 6\SOWP\sowp assignment\ICT_14_051_JKC_SHAYALIKA\sowpnewassignment\Q8\SchedulingComponent\SchedulingComponent\obj\Debug\SchedulingComponent.pdb
